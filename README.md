@@ -1,2 +1,4 @@
-simple_camera_mfc
-=================
+环境：
+VS2008
+OPENNI2.4
+

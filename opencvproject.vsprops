@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="gb2312"?>
+<VisualStudioPropertySheet
+	ProjectType="Visual C++"
+	Version="8.00"
+	Name="opencvproject"
+	>
+	<Tool
+		Name="VCCLCompilerTool"
+		AdditionalIncludeDirectories="E:\opencv\build\include"
+	/>
+	<Tool
+		Name="VCLinkerTool"
+		AdditionalDependencies="opencv_calib3d244.lib opencv_contrib244.lib opencv_core244.lib opencv_features2d244.lib opencv_flann244.lib opencv_gpu244.lib opencv_highgui244.lib opencv_imgproc244.lib opencv_legacy244.lib opencv_ml244.lib opencv_nonfree244.lib opencv_objdetect244.lib opencv_photo244.lib opencv_stitching244.lib opencv_ts244.lib opencv_video244.lib opencv_videostab244.lib"
+		AdditionalLibraryDirectories="E:\opencv\build\x86\vc9\lib"
+	/>
+</VisualStudioPropertySheet>
